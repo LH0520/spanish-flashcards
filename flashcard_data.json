@@ -1,0 +1,34 @@
+[
+  {
+    "spanish": "hola",
+    "english": "hello",
+    "category": "basics",
+    "seen": 0,
+    "correct": 0,
+    "incorrect": 0
+  },
+  {
+    "spanish": "gracias",
+    "english": "thank you",
+    "category": "basics",
+    "seen": 0,
+    "correct": 0,
+    "incorrect": 0
+  },
+  {
+    "spanish": "perro",
+    "english": "dog",
+    "category": "nouns",
+    "seen": 0,
+    "correct": 0,
+    "incorrect": 0
+  },
+  {
+    "spanish": "gato",
+    "english": "cat",
+    "category": "nouns",
+    "seen": 0,
+    "correct": 0,
+    "incorrect": 0
+  }
+]
